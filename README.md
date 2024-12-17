@@ -1,0 +1,2 @@
+# ncsu
+school stuff
